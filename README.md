@@ -1,1 +1,1 @@
-# CU5243-Applied-DS
+# CU GR 5243 Applied Data Science
