@@ -1,2 +1,2 @@
-# week_03_quiz
+# weekly quiz
  
